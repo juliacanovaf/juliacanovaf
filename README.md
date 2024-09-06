@@ -43,7 +43,7 @@
     </tr>
     <tr>
       <td align="center"> <b>Natural Catalyst MATLAB Team Project</b></td>
-      <td align="center"><b> Data manipulation and evalution on MATLAB in the context of Detergent Enzymes and Catalysts 🧼 </b></td>
+      <td align="center"><b> Data manipulation and evalution on MATLAB in the context of Detergent Enzymes and Catalysts</b></td>
       <td align="center">Put Link Here</td>
     </tr>
     <tr>
