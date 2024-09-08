@@ -1,4 +1,4 @@
-<h1><img src="" width="30"/> Hello! Welcome to my Portfolio.</h1>
+<h1><img src="https://www.tripsavvy.com/thmb/NBoloJThQVNFuQF-ZT1NQL6WMh0=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/manta-coaster-signage-56855f635f9b586a9e19571a.jpg" width="100"/> Hello! Welcome to my Portfolio.</h1>
 
 <p>My name is <b>Julia Fernandes</b>, I am an <b>Mechanical Engineering</b> junior studying at <b> Purdue University </b> <img src="https://th.bing.com/th/id/OIP.HVoFmkb7c2pCG_vv1IoiKQHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7" width="20"/>. Outside of classes, I am the <b>Merchandise Coordinator</b> for the <b>American Society of Mechanical Engineers</b> <img src="https://th.bing.com/th/id/R.4481043ca9ed3b6c2eab1d0122d6d098?rik=K4IWQwOAzhUbzA&riu=http%3a%2f%2forg.osu.edu%2fasme%2ffiles%2f2018%2f03%2fasme-1oam7it-752x440.png&ehk=Mu50rS%2be2A9hwyRfle%2b243z3OX11L2Sy1ehrW1lecA8%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" width="30"/>, a mentor for incoming <b>Brazilian</b> <img src="https://th.bing.com/th/id/R.0b01ddb3f8dd9cda3169feaf887a54dc?rik=wJWTbFcpaJODJw&riu=http%3a%2f%2fglobalsherpa.org%2fwp-content%2fuploads%2f2012%2f02%2fbrazil-flag.jpg&ehk=XEvE2eknYIm6ZSEb6mZsy47sx%2bcBQqsi5cQrmg6zHc8%3d&risl=&pid=ImgRaw&r=0" width="30"/> students, and a TA for <b>ME Design Innovation & Entrepreneurship</b>, ME263. 
   
@@ -54,7 +54,7 @@
   </tbody>
 </table>
 
-<p align="center">  Here is a link to my <a href="https://th.bing.com/th/id/OIP.q7hrrlJmYEnTavqubhP6fwHaE8?w=242&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7">Resume</a> as well! </p>
+<p align="center">  Here is a link to my <a href="https://drive.google.com/file/d/1geQGhKIZ2sJ0g3V5uOKtUlWr7vhqKozx/view?usp=sharing">Resume</a> as well! </p>
 
 <p align="center"> Thank you for checking out my Projects! If you have any questions, please reach out to me at juliacanovaf@gmail.com !</p>
 
