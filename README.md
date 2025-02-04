@@ -28,17 +28,17 @@
     </tr>
     <tr>
       <td align="center"><b>Servo Table Speed Control</b></td>
-      <td align="center"><b>Understand frequency domains and draw connections between experiments and real world applications through a servo table</b></td>
-      <td align="center"><a href="https://drive.google.com/file/d/1OAKSP0VOehc_3ENDehfc5xADpr-DbSLi/view?usp=sharingtarget="_blank">Report</a></td>
+      <td align="center"><b>Understand frequency domains and draw connections between experiments and real-world applications through a servo table</b></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1OAKSP0VOehc_3ENDehfc5xADpr-DbSLi/view?usp=sharing" target="_blank">Report</a></td>
     </tr>
     <tr>
       <td align="center"><b>FEA Analysis</b></td>
-      <td align="center"><b>Analyze stress concentration of a circular hole under uniaxial tension in a finite width panel, shown in the report is a FEA Simulation that highlights the uniform stress distribution on the panel ⛓️‍💥</b></td>
-      <td align="center"><a href="https://drive.google.com/file/d/1gtN0iZhcCL1raEx4gYchDxRkX2VmtDRH/view?usp=sharing"target="_blank">Report</a></td>
+      <td align="center"><b>Analyze stress concentration of a circular hole under uniaxial tension in a finite width panel, shown in the report is an FEA Simulation that highlights the uniform stress distribution on the panel ⛓️‍💥</b></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1gtN0iZhcCL1raEx4gYchDxRkX2VmtDRH/view?usp=sharing" target="_blank">Report</a></td>
     </tr>
     <tr>
       <td align="center"><b>Wind Tunnel Lab</b></td>
-      <td align="center"><b>Analyize turbulance data to find pressure differences, Studying behavior of Wake Flow regions and how they involve significant momentum and energy transfers ✈️</b></td>
+      <td align="center"><b>Analyize turbulence data to find pressure differences, Studying the behavior of Wake Flow regions and how they involve significant momentum and energy transfers ✈️</b></td>
       <td align="center">Lab Report Coming soon</td>
     </tr>
     <tr>
@@ -48,7 +48,7 @@
     </tr>
     <tr>
       <td align="center"> <b>Roller Coaster Dynamics Analysis</b></td>
-      <td align="center"><b>Process to achieve a roller coaster design on MATLAB that has three transition sections that connect a contant acceleration loop, to an airtime hill, and finally to a straight section. 🎢</b></td>
+      <td align="center"><b>Process to achieve a roller coaster design on MATLAB that has three transition sections that connect a constant acceleration loop, to an airtime hill, and finally to a straight section. 🎢</b></td>
       <td align="center"><a href="https://drive.google.com/file/d/1RZTmwn-3weO5g-_MQJ8hHNgZngCKvUKX/view?usp=sharing" target="_blank">PDF</a></td>
     </tr>
 	  <tr>
