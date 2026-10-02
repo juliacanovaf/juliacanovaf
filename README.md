@@ -25,63 +25,43 @@ I am currently pursuing a thesis-based master's degree and continuing to explore
   <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-09B6A2?logo=codeium&logoColor=fff&style=for-the-badge" alt="Codeium Badge" />
   <img alt="Simulink" src="https://img.shields.io/badge/Simulink-77E8B9?logo=stimulus&logoColor=000&style=for-the-badge" />
 </p>
-<h3>Project Reports</h3>
+<h3>Engineering Projects & Research</h3>
 <table>
   <thead align="center">
       <td><b>Project Name</b></td>
       <td><b>Description</b></td>
-      <td><b>PDF Link</b></td>
+      <td><b>Project Files</b></td>
   </thead>
   <tbody>
     <tr>
-      <td align="center"> <b>Grand Prix Kart Chassis</b></td>
-      <td align="center"><b>Currently welding and assembling the roll cage to be placed on the powertrain for the Annual Purdue Grand Prix 🏎️</b></td>
-      <td align="center">More to Come!</td>
+      <td align="center"><b>Electrochemical Pneumatic Soft Actuator Research</b></td>
+      <td align="center"><b>Developed and experimentally tested electrochemical pneumatic pouch actuators for soft robotic applications, including actuator fabrication, electrode and material integration, experimental characterization, and iterative improvements to the testing system.</b></td>
+      <td align="center"><a href="https://drive.google.com/file/d/10Xg32vaYIADSdhNdzh9iRwB3nmGAcj7S/view?usp=drive_link" target="_blank">Final Report</a></td>
     </tr>
     <tr>
-      <td align="center"><b>Servo Table Speed Control</b></td>
-      <td align="center"><b>Understand frequency domains and draw connections between experiments and real-world applications through a servo table</b></td>
-      <td align="center"><a href="https://drive.google.com/file/d/1OAKSP0VOehc_3ENDehfc5xADpr-DbSLi/view?usp=sharing" target="_blank">Report</a></td>
+      <td align="center"><b>Dallara Front Wing DeflecTest - Senior Capstone</b></td>
+      <td align="center"><b>Designed and validated a mechanical testing system for Dallara to evaluate front-wing deflection under loads exceeding 450 lbf, supporting testing of components used with Dallara's IndyCar chassis.</b></td>
+      <td align="center"><a href="https://drive.google.com/file/d/10-lz2vASPcx5_6GjhwZPSxwdsGQY_hOG/view?usp=drive_link" target="_blank">Poster</a> | <a href="https://drive.google.com/file/d/1QQQCcpeJXD63XbhATLCmD8uzyaq4nJl3/view?usp=drive_link" target="_blank">Final Report</a></td>
     </tr>
     <tr>
-      <td align="center"><b>FEA Analysis</b></td>
-      <td align="center"><b>Analyze stress concentration of a circular hole under uniaxial tension in a finite width panel, shown in the report is an FEA Simulation that highlights the uniform stress distribution on the panel ⛓️‍💥</b></td>
-      <td align="center"><a href="https://drive.google.com/file/d/1gtN0iZhcCL1raEx4gYchDxRkX2VmtDRH/view?usp=sharing" target="_blank">Report</a></td>
+      <td align="center"><b>Autonomous Line-Following Robot</b></td>
+      <td align="center"><b>Programmed and tested an autonomous robot in Simulink using a finite-state machine, line sensors, wheel encoders, and IR distance sensing to complete two laps of an unknown track and autonomously detect and park near a wall.</b></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1h8JulEwfgN0R7EU0a0qqGuBiKpjexADw/view?usp=drive_link" target="_blank">Final Report</a></td>
     </tr>
     <tr>
-      <td align="center"><b>Wind Tunnel Lab</b></td>
-      <td align="center"><b>Analyize turbulence data to find pressure differences, Studying the behavior of Wake Flow regions and how they involve significant momentum and energy transfers ✈️</b></td>
-      <td align="center">Lab Report Coming soon</td>
+      <td align="center"><b>Water Bottle Insulation Analysis</b></td>
+      <td align="center"><b>Experimentally compared vacuum, foam, and single-wall water bottle insulation using thermocouple measurements and heat-transfer modeling to evaluate conduction, free convection, thermal resistance, and overall thermal performance.</b></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1Ajktv_gMyv3Pb6tUtfBWa8zYZr5fbzCj/view?usp=drive_link" target="_blank">Final Report</a></td>
     </tr>
     <tr>
-      <td align="center"> <b>Battery Fire Container for Electric Transportation Devices</b></td>
-      <td align="center"><b>Alongside a team of other three students, we created a case to put electric transportation devices in to reduce the risk of a fire hazard while charging said devices. 🔥</b></td>
-      <td align="center"><a href="https://drive.google.com/file/d/1pl-dZgz5JcSt7UnRukO2jLQVvgl77zgx/view?usp=sharing" target="_blank">PDF</a></td>
+      <td align="center"><b>Roller Coaster Dynamics Analysis</b></td>
+      <td align="center"><b>Developed a roller coaster model in MATLAB with transition sections connecting a constant-acceleration loop, airtime hill, and straight track while analyzing vehicle dynamics throughout the course.</b></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1RZTmwn-3weO5g-_MQJ8hHNgZngCKvUKX/view?usp=sharing" target="_blank">Report</a></td>
     </tr>
     <tr>
-      <td align="center"> <b>Roller Coaster Dynamics Analysis</b></td>
-      <td align="center"><b>Process to achieve a roller coaster design on MATLAB that has three transition sections that connect a constant acceleration loop, to an airtime hill, and finally to a straight section. 🎢</b></td>
-      <td align="center"><a href="https://drive.google.com/file/d/1RZTmwn-3weO5g-_MQJ8hHNgZngCKvUKX/view?usp=sharing" target="_blank">PDF</a></td>
-    </tr>
-	  <tr>
-      <td align="center"> <b>Marble Coaster</b></td>
-      <td align="center"><b>CAD design of a toy marble coaster in NX Siemens with several design requirements including a consistent outer and inner diameter throughout the path. 🛝</b></td>
-      <td align="center"><a href="https://drive.google.com/file/d/14FwjjzFqyAIW23DjldIQ7cOIfJzhUDi7/view?usp=sharing" target="_blank">PDF</a></td>
-    </tr>
-    <tr>
-      <td align="center"> <b>Gravitron Pipsqueak Engine</b></td>
-      <td align="center"><b>CAD design of a pipsqueak engine modeled after "The Gravitron" amusement park ride with four different flywheels as a decorative flare. 🚂</b></td>
-      <td align="center"><a href="https://drive.google.com/file/d/1gSrAZoqcIVF1-U_RwRHEr5_E_rYDqWX0/view?usp=sharing" target="_blank">PDF</a></td>
-    </tr>
-    <tr>
-      <td align="center"> <b>Natural Catalyst MATLAB Team Project</b></td>
-      <td align="center"><b> Data manipulation and evaluation on MATLAB in the context of Detergent Enzymes and Catalysts 🫧</b></td>
-      <td align="center"><a href="https://drive.google.com/file/d/1Xwy9ySOyDOe0UPHmBtUbgsWVu7iA8g7t/view?usp=sharing" target="_blank">PDF</a></td>
-    </tr>
-    <tr>
-      <td align="center"> <b>Audio Equalizer</b></td>
-      <td align="center"><b>Stereo System built on a breadboard that uses Filters and Amplifiers to Produce and Manipulate audio 🎛️</b></td>
-      <td align="center"><a href="https://drive.google.com/file/d/17qRo1w13HvtZgAKtftG2G54ZUP_URHBo/view?usp=sharing" target="_blank">PDF</a></td>
+      <td align="center"><b>Battery Fire Protection Container</b></td>
+      <td align="center"><b>Collaborated in a four-person team to design a protective charging container for electric transportation devices aimed at reducing hazards associated with lithium-ion battery fires.</b></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1pl-dZgz5JcSt7UnRukO2jLQVvgl77zgx/view?usp=sharing" target="_blank">Report</a></td>
     </tr>
   </tbody>
 </table>
