@@ -66,7 +66,7 @@ I am currently pursuing a thesis-based master's degree and continuing to explore
   </tbody>
 </table>
 
-<p align="center">  Here is a link to my <a href="https://drive.google.com/file/d/1l5wkCcqAo-AShp6VNiGvsWgD2aerdtGl/view?usp=sharing">Resume</a> as well! </p>
+<p align="center">Here is a link to my <a href="https://drive.google.com/file/d/1N06dHbjNLdoMbvJgRyXHOK8NwqLIdV-4/view?usp=drive_link" target="_blank">Resume</a> as well!</p>
 
 <p align="center"> Thank you for checking out my Projects! If you have any questions, please reach out to me at juliacanovaf@gmail.com !</p>
 
