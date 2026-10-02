@@ -1,8 +1,20 @@
 <h1><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hodDBzY296MDd2NzZxYWU2NXBkMGlyaThzczcwaGRqMnJodHd0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHBNb6cWrRdCAS0zO/giphy.gif" width="125"/> Hello! Welcome to my Portfolio.</h1>
 
-<p>My name is <b>Julia Fernandes</b>, I am an <b>Mechanical Engineering</b> junior studying at <b> Purdue University </b> <img src="https://th.bing.com/th/id/OIP.HVoFmkb7c2pCG_vv1IoiKQHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7" width="20"/>. Outside of classes, I am the <b>Merchandise Coordinator</b> and a member of the <b>Chassis subdivision</b> in the <b>Racing Team</b> for the <b>American Society of Mechanical Engineers</b> <img src="https://th.bing.com/th/id/R.4481043ca9ed3b6c2eab1d0122d6d098?rik=K4IWQwOAzhUbzA&riu=http%3a%2f%2forg.osu.edu%2fasme%2ffiles%2f2018%2f03%2fasme-1oam7it-752x440.png&ehk=Mu50rS%2be2A9hwyRfle%2b243z3OX11L2Sy1ehrW1lecA8%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" width="30"/>, a mentor for incoming <b>Brazilian</b> <img src="https://th.bing.com/th/id/R.0b01ddb3f8dd9cda3169feaf887a54dc?rik=wJWTbFcpaJODJw&riu=http%3a%2f%2fglobalsherpa.org%2fwp-content%2fuploads%2f2012%2f02%2fbrazil-flag.jpg&ehk=XEvE2eknYIm6ZSEb6mZsy47sx%2bcBQqsi5cQrmg6zHc8%3d&risl=&pid=ImgRaw&r=0" width="30"/> students, and a TA for <b>ME Design Innovation & Entrepreneurship</b>, ME263. 
-  
-<p align="center"> <img src="https://i1.wp.com/engineering.purdue.edu/fsae/wordpress/wp-content/uploads/2017/12/ME_Logo_Transparent.png?fit=600%2C375&ssl=1" width="220"/></p>
+<p>
+My name is <b>Julia Fernandes</b>, and I am a <b>Mechanical Engineering M.S. student at Arizona State University</b>, with a B.S. in Mechanical Engineering from <b>Purdue University</b> <img src="https://th.bing.com/th/id/OIP.HVoFmkb7c2pCG_vv1IoiKQHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7" width="20"/>. My interests include <b>robotics, soft robotics, mechanical design, prototyping, and manufacturing</b>.
+</p>
+
+<p>
+During my undergraduate studies, I conducted research in <b>soft robotics</b>, developing and experimentally testing electrochemical pneumatic actuators, and completed a senior capstone project focused on the mechanical design and validation of a testing system for a <b>Dallara race car front wing</b>. I also served as a Teaching Assistant for Purdue's <b>Design, Innovation & Entrepreneurship</b> courses.
+</p>
+
+<p>
+I am currently pursuing a thesis-based master's degree and continuing to explore research in <b>robotics, mechatronics, and bio-inspired systems</b>.
+</p>
+
+<p align="center">
+  <img src="https://engineering.asu.edu/wp-content/uploads/sites/36/2017/03/Updated-Fulton-Logo-2017.jpg" width="320"/>
+</p>
 
 <h3>CAD and Software I use!</h3>
 <p>
